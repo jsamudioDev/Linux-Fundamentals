@@ -22,7 +22,7 @@ Every command here has been executed. Every concept has been tested.
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | [Navigation & File System](topics/01-navigation/notes.md) | In progress |
+| 01 | [Navigation & File System](topics/01-navigation/notes.md) | Complete |
 | 02 | [Permissions & Ownership](topics/02-permissions/notes.md) | Pending |
 | 03 | [Users & Groups](topics/03-users/notes.md) | Pending |
 | 04 | [Processes](topics/04-processes/notes.md) | Pending |
@@ -54,3 +54,4 @@ Every command here has been executed. Every concept has been tested.
 
 ---
 
+- **2026-03-19** — Navigation complete. Key directories, file system basics, and key files explored. First project: system-monitor deployed.
