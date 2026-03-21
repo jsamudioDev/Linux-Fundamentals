@@ -23,7 +23,7 @@ Every command here has been executed. Every concept has been tested.
 | # | Topic | Status |
 |---|-------|--------|
 | 01 | [Navigation & File System](topics/01-navigation/notes.md) | Complete |
-| 02 | [Permissions & Ownership](topics/02-permissions/notes.md) | Pending |
+| 02 | [Permissions & Ownership](topics/02-permissions/notes.md) | In progress |
 | 03 | [Users & Groups](topics/03-users/notes.md) | Pending |
 | 04 | [Processes](topics/04-processes/notes.md) | Pending |
 | 05 | [Services & systemctl](topics/05-services/notes.md) | Pending |
@@ -51,7 +51,7 @@ Every command here has been executed. Every concept has been tested.
 ## Progress Log
 
 - **2026-03-19** — Repository created. Navigation, key directories and file system basics completed. First project: system-monitor deployed.
+- **2026-03-19** — Navigation complete. Key directories, file system basics, and key files explored. First project: system-monitor deployed.
+- **2026-03-21** — Permissions: file types, permission structure, numeric notation, chmod practiced.
 
 ---
-
-- **2026-03-19** — Navigation complete. Key directories, file system basics, and key files explored. First project: system-monitor deployed.
